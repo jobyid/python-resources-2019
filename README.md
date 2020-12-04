@@ -2,6 +2,11 @@
 Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
+### Resources for StriveSchool 
+https://www.w3schools.com/python - A good quick way to find syntax 
+https://www.tutorialspoint.com - nuice set of tuortials on lots of different languages and librays 
+Google.com - I use this all the time 
+
 ### Books
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
